@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "553584551903",
+    "firebase_url": "https://kotlin-643b9-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "kotlin-643b9",
+    "storage_bucket": "kotlin-643b9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553584551903:android:a1c367f8642ca0d4b9466a",
+        "android_client_info": {
+          "package_name": "com.example.firebaseauth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuFP0dZLobO4y_7aX7lTdQeEYC2d5Fy18"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553584551903:android:ed1e5bb1e8513c5eb9466a",
+        "android_client_info": {
+          "package_name": "com.example.kotlin_auth5_klicker_fb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuFP0dZLobO4y_7aX7lTdQeEYC2d5Fy18"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
